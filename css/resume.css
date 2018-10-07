@@ -160,6 +160,15 @@ section.resume-section .resume-item .resume-date {
   min-width: none;
 }
 
+section.resume-section .interest_images {
+  text-align: center;
+}
+
+section.resume-section .interest_images .interest_image {
+  max-width: 320px;
+  margin: 0.25rem auto;
+}
+
 @media (min-width: 768px) {
   section.resume-section {
     min-height: 100vh;

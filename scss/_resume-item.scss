@@ -4,9 +4,15 @@ section.resume-section {
   max-width: 75rem;
   font-family: 'Noto Sans TC', sans-serif;
   .resume-item {
-    .resume-content {}
     .resume-date {
       min-width: none;
+    }
+  }
+  .interest_images{
+    text-align: center;
+    .interest_image{
+      max-width: 320px;
+      margin: 0.25rem auto;
     }
   }
 }
